@@ -1,2 +1,2 @@
 # Simple-DL-codes
-Compilation of simple DL models
+This repository contains some very basic DL frameworks applied on sample datasets
